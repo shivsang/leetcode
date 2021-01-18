@@ -21,7 +21,7 @@
 
 # Choosing collections and its complexity 
 | Use | Generic | Non-generic | 
-| --- | ----------- | -------- |----------- |
+| --- | ----------- | -------- |
 | Key-Value pair | Dictionary<Key, Value> | Hashtable | 
 | Access items by index|List<T>|Array (fixed capacity), ArrayList (automatically expandable) |
 | FIFO | Queue<T> | Queue |
