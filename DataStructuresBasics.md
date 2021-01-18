@@ -25,7 +25,7 @@
 | Key-Value pair | Dictionary<Key, Value> | Hashtable | 
 | Access items by index|List<T>|Array (fixed capacity), ArrayList (automatically expandable) |
 | FIFO | Queue<T> | Queue |
-|LIFO | Stack<T> | Stack |
+| LIFO | Stack<T> | Stack |
 | Access Items sequentially | LinkedList<T> | None|
 | Sorted collection | SortedList<T> | SortedList | 
 | Set (No order, no duplication) | HashSet<T>, SortedSet<T> | none | 
